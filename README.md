@@ -20,7 +20,7 @@ Afterwards run `npm install` in the project root to install all dependencies
 
 ### Scripts to run the application
 
-#### `npm start`
+#### `npm start`git
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -37,11 +37,11 @@ More information on running Jest test can be found here [Getting started with Je
 ### The tests
 For both test there are 1-2 statements that should be tested, but it up to you to write more test to make sure the application is behaving correctly
 
-####[Api.test.js](src/Api.test.js)
+#### [Api.test.js](src/Api.test.js)
 Start with `it should call YesNo API`, then make sure to test the return.
   
 
-####[App.test.js](src/App.test.js)
+#### [App.test.js](src/App.test.js)
 Start with `should display an input` and `should display a button` then make sure all states of the application are test
 
 
