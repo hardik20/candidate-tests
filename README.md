@@ -14,7 +14,7 @@ The steps to finish the test are
 
 Included in this repo is a small React application created by [create-react-app](https://facebook.github.io/create-react-app)
 
-Get get the application running make sure that you have Node.js installed which you can get from here [https://nodejs.org](https://nodejs.org)
+To get the application running make sure that you have Node.js installed which you can get from here [https://nodejs.org](https://nodejs.org)
 
 Afterwards run `npm install` in the project root to install all dependencies
 
