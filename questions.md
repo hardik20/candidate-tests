@@ -14,7 +14,7 @@ Spent more than a day on technical test. verify image being visible on button cl
 
 ---
 Answer:
-API testing is the most interesting trend noe because the tests are more reliable, maintainable , less fragile when compared to GUI and it is possible cover a lot of scenarios 
+API testing is the most interesting trend now because the tests are more reliable, maintainable , less fragile when compared to GUI and it is possible cover a lot of scenarios 
 ---
 
 ##### 3. How would you implement test automation in an application with streaming data?
