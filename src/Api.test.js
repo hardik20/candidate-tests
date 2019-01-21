@@ -13,6 +13,11 @@ import ask from './Api';
 
 
 describe('API Caller', () => {
+  	test ('it should call YesNo API', async() => {
+		const result = await ask();
+			expect(result.answer).toBeDefined();
+			expect(result.image).toBeDefined();
+		});
 
 
 });
