@@ -28,8 +28,8 @@ The data can be mocked for testing or if available production quality masked dat
 
 ---
 Answer:
-Component test will test in complete isolation with out dependencies. Display price of security to user 
-Integration test will test interaction of 2 or more components with or with out dependencies. verify customer type based restrictions to certain feature 
+Component test will test in complete isolation with out dependencies. Display price of security to user. 
+Integration test will test interaction of 2 or more components with or with out dependencies. verify customer type based restrictions to certain feature.  
 E2E test will verify user flows.  Ability to place a trade order in market
 ---
 
