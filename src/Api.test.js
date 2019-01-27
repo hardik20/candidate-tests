@@ -17,6 +17,7 @@ describe('API Caller', () => {
 		const result = await ask();
 			expect(result.answer).toBeDefined();
 			expect(result.image).toBeDefined();
+			expect(result.forced).toBeDefined();
 		});
 
 
