@@ -25,3 +25,8 @@ it('should display a button', () => {
     const wrapper = shallow(<App />);
     expect(wrapper.find('button').exists()).toEqual(true);
 });
+
+it('should not display image first time', () => {
+    const wrapper = shallow(<App />);
+    expect(wrapper.exists('image')).toEqual(false);
+});
